@@ -28,41 +28,6 @@ The notebook performs basic exploratory data analysis, visualizes feature relati
 - `Raisin_Dataset.csv` - raisin classification dataset used in the analysis
 - `README.md` - project overview and usage instructions
 
-## Project Workflow
-
-The notebook includes the following steps:
-
-1. Load required Python libraries
-2. Load the raisin dataset
-3. Review descriptive statistics
-4. Visualize numeric correlations with a heatmap
-5. Create a pairplot by class
-6. Split the data into training and test sets
-7. Standardize the feature values
-8. Train and evaluate SVM and Gaussian Naive Bayes models
-
-## Dataset Overview
-
-The dataset contains 900 rows and 8 columns:
-
-- 7 numeric feature columns
-- 1 target column: `Class`
-
-The two target classes are:
-
-- `Kecimen`
-- `Besni`
-
-Feature columns:
-
-- `Area`
-- `MajorAxisLength`
-- `MinorAxisLength`
-- `Eccentricity`
-- `ConvexArea`
-- `Extent`
-- `Perimeter`
-
 ## Tools and Libraries
 
 The notebook uses the following Python libraries:
@@ -130,8 +95,3 @@ This assignment demonstrates a basic machine learning workflow for binary classi
 - model comparison
 - performance evaluation
 
-## Notes
-
-- The notebook uses an 80/20 train-test split.
-- Feature scaling is applied before training the models.
-- The target variable is `Class`, which contains the raisin categories `Kecimen` and `Besni`.
