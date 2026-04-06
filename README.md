@@ -8,13 +8,6 @@
 - Assignment: `Machine Learning Classification`
 - Topic: `Support Vector Machine and Gaussian Naive Bayes`
 
-### Student Information
-
-- Student Name: `Joan Dela Cruz`
-- Instructor: `Ritwick Dutta`
-- Submission Date: `March 23, 2026`
-
-
 This repository contains a Jupyter Notebook assignment that explores the `Raisin_Dataset.csv` dataset and compares two classification models:
 
 - Support Vector Machine (SVM)
