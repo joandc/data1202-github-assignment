@@ -88,3 +88,11 @@ This assignment demonstrates a basic machine learning workflow for binary classi
 - model comparison
 - performance evaluation
 
+## Project Context
+
+This DATA 1200 Jupyter Notebook assignment was also used as a GitHub learning assignment for the `DATA 1202` course. The repository was created to practice GitHub basics such as creating a repository, updating files, writing a README, adding screenshots, and managing local and remote changes with Git.
+
+## Author
+
+- Joan Dela Cruz
+
